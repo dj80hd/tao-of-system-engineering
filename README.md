@@ -4,7 +4,7 @@
  3. Use a canary application that exercises system interfaces.
  4. Prioritize maintenance with entire days or weeks dedicated to the task.
  5. Take a tour of duty on a different team.
- 6. Make all technical discourse public. (thanks sam at samver.org)
+ 6. Make all technical discourse public. (thanks sam of samver.org)
  7. Elect leaders from within when possible.
  8. Teach what you know. Hire interns.
  9. Leave helpful comments and other gifts for those that follow.
